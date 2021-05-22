@@ -14,5 +14,7 @@ int main(){
 
     cout.precision(3);
     cout<<"\n El resultado es: "<<rst;
+    
+    return 0;
 
 }
